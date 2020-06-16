@@ -6,4 +6,5 @@ public class Person {
    private String sex;
    private String height;
    private String hign;
+   private Integer aaa;
 }
